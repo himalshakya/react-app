@@ -1,0 +1,30 @@
+{
+	// Extensions for Javascript Development
+	// See https://go.microsoft.com/fwlink/?LinkId=827846 to learn about workspace recommendations.
+	// Extension identifier format: ${publisher}.${name}. Example: vscode.csharp
+
+	// List of extensions which should be recommended for users of this workspace.
+	"recommendations": [
+		"stevencl.adddoccomments",
+		"asciidoctor.asciidoctor-vscode",
+		"msjsdiag.debugger-for-chrome",
+		"firefox-devtools.vscode-firefox-debug",
+		"msjsdiag.debugger-for-edge",
+		"ms-azuretools.vscode-docker",
+		"hediet.vscode-drawio",
+		"dbaeumer.vscode-eslint",
+		"eamodio.gitlens",
+		"kiteco.kite",
+		"ms-kubernetes-tools.vscode-kubernetes-tools",
+		"eg2.vscode-npm-script",
+		"christian-kohler.npm-intellisense",
+		"esbenp.prettier-vscode",
+		"cssho.vscode-svgviewer",
+		"visualstudioexptteam.vscodeintellicode",
+		"vscode-icons-team.vscode-icons"
+	],
+	// List of extensions recommended by VS Code that should not be recommended for users of this workspace.
+	"unwantedRecommendations": [
+
+	]
+}
